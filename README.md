@@ -1,5 +1,43 @@
 # 💫 About Me:
-Analyste-développeur passionné par le génie logiciel, titulaire d'une maîtrise de recherche en informatique de l'Université du Québec A Chicoutimi. J'aime concevoir des solutions robustes et durables tout en explorant l'intelligence artificielle et le développement de jeux vidéo.
+Passionate Software Developer with a Research Master's degree in Computer Science from the University of Quebec at Chicoutimi (UQAC). I specialize in designing robust, sustainable solutions while exploring the frontiers of Artificial Intelligence and Game Development.
+
+
+## 🚀 Featured Projects
+
+### Full-Stack Portfolio
+*Development of a complete professional portfolio to showcase technical expertise.*
+* **Tech Stack:** [Frontend Repository](https://github.com/AJEANEUDES/Portfolio_frontend), [Backend Repository](https://github.com/AJEANEUDES/Portfolio_backend)
+
+### 📊 Game Difficulty Analysis Dataset (Research)
+*Creation of an original dataset designed to evaluate difficulty levels in platformer games.*
+* **Tech Stack:** [Project Link](https://github.com/AJEANEUDES/Ladder)
+* **Key Highlights:** Developed automated data collection scripts, performed data cleaning, and analyzed correlations between game mechanics and perceived difficulty.
+
+## 💼 Professional Experience
+
+### 🔬 Research Assistant | UQAC (Chicoutimi, QC)
+**Sept 2025 – Dec 2025**
+*   **Project:** Toolkit for the inclusion of immigrant students.
+*   Coordinated and structured large-scale scientific documentation.
+*   Designed graphics and improved document ergonomics for institutional distribution.
+
+### 👨‍🏫 Graduate Teaching Assistant | DIM - UQAC (Chicoutimi, QC)
+**Aug 2025 – Dec 2025**
+*   Provided pedagogical support and technical guidance in mathematics and application software.
+*   Simplified advanced technical concepts for student groups.
+
+### 💻 Programmer Analyst | 2GO SARL U (Lomé, Togo)
+**Aug 2023 – Aug 2024**
+*   Analyzed functional and technical requirements for complex application systems.
+*   **Backend:** Designed and developed robust RESTful APIs.
+
+### 🌐 Programmer Analyst | AMEGROUP (Lomé, Togo)
+**March 2023 – Aug 2023**
+*   Developed and maintained web applications.
+*   Optimized system quality, security, and overall performance.
+
+### 🚀 Software Engineering Internships (2021 - 2023)
+*   **Melo Production / E-Media / Zoetechgroup**: Developed, integrated, and tested application interfaces. Implemented quality control procedures and ensured operational maintenance.
 
 
 ## 🌐 Socials:
@@ -12,11 +50,9 @@ Analyste-développeur passionné par le génie logiciel, titulaire d'une maîtri
 ![](https://nirzak-streak-stats.vercel.app/?user=AJEANEUDES&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AJEANEUDES&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AJEANEUDES&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AJEANEUDES&limit=5&theme=dark&combine_all_yearly_contributions=true)
